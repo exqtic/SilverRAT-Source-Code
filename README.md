@@ -1,5 +1,7 @@
 # SilverRAT Source Code
 Advanced Remote Administration Tool | Source Code Release
+![SilverRAT Preview](https://i.imgur.com/hHwWlGq.png)
+
 
 ## READ BEFORE USING
 This is the **full source code of SilverRAT**.  
