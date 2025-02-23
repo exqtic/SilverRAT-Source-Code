@@ -28,12 +28,6 @@ This is the **official leaked SilverRAT source**, fully documented and open for 
 - Modify and extend features for personal projects  
 - Analyze and improve stealth techniques  
 
----
-
-## Get the Full Package
-The **compiled version, setup files, and extra tools** are only available in the **Solaris Community**.  
-
-[Join Solaris on Discord to Download](https://discord.gg/86uAhqsM)  
 
 ---
 
