@@ -6,7 +6,6 @@ Advanced Remote Administration Tool | Source Code Release
 ## READ BEFORE USING
 This is the **full source code of SilverRAT**.  
 If you use or modify this project, **always leave credits to @RVGX0x1 & @exqtic.**  
-**The compiled version and full resources are only available in the Solaris Community Discord.**  
 
 ---
 
